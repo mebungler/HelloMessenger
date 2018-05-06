@@ -1,0 +1,43 @@
+﻿<local:BasePage x:TypeArguments="core:LoginViewModel" x:Class="HelloMessanger.RegisterPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HelloMessanger"
+      xmlns:core="clr-namespace:HelloMessanger.Core;assembly=HelloMessanger.Core"
+      mc:Ignorable="d"
+      d:DesignHeight="800" d:DesignWidth="600"
+      Title="LoginPage"
+      >
+    <Border>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <StackPanel
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                TextBlock.TextAlignment="Center">
+                <!--Round border-->
+                <Border Background="{StaticResource LighterBackgroundBrush}"
+                    CornerRadius="10"
+                        Padding="15 50 15 15"
+                        Width="300"
+                        Margin="50 50 50 0">
+                    <StackPanel>
+                        <!--SignUp text-->
+                        <TextBlock Text="Sign Up" FontSize="20" Foreground="{StaticResource AccentBrush}"></TextBlock>
+                        <TextBlock Text="It is about to get fun"
+                                   Foreground="{StaticResource WhiteForegroundBrush}"
+                                   Margin="0 0 0 20"></TextBlock>
+                        <!--Email-->
+                        <TextBox Text="{Binding Email}" Tag="Email"/>
+                        <!--Password-->
+                        <TextBox Text="{Binding Password}" Margin="0,0,0,30" Tag="Password"></TextBox>
+                        <!--Next button-->
+                        <!--Command="{Binding LoginCommand}" CommandParameter="{Binding SecurePassword, ElementName=Page}" -->
+                        <Button Style="{StaticResource DefaultButton}" Command="{Binding RegisterCommand}" local:IsBusyProperty.Value ="{Binding LoginIsRunning}"  Content="Register"  HorizontalAlignment="Center" ></Button>
+                    </StackPanel>
+                </Border>
+                <Button Command="{Binding GoToLoginPageCommand}" Style="{StaticResource TextButton}" Content="I already have an account ..." HorizontalAlignment="Center"></Button>
+            </StackPanel>
+        </ScrollViewer>
+    </Border>
+</local:BasePage>

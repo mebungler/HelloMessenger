@@ -1,0 +1,14 @@
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\bin\Debug\HelloMessanger.Core.dll
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\bin\Debug\HelloMessanger.Core.pdb
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\obj\Debug\HelloMessanger.Core.dll
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\obj\Debug\HelloMessanger.Core.pdb
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\obj\Debug\HelloMessanger.Core.csprojResolveAssemblyReference.cache
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\bin\Debug\Ninject.dll
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger.Core\bin\Debug\Ninject.xml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\bin\Debug\HelloMessanger.Core.dll
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\bin\Debug\HelloMessanger.Core.pdb
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\bin\Debug\Ninject.dll
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\bin\Debug\Ninject.xml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\obj\Debug\HelloMessanger.Core.csprojResolveAssemblyReference.cache
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\obj\Debug\HelloMessanger.Core.dll
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger.Core\obj\Debug\HelloMessanger.Core.pdb

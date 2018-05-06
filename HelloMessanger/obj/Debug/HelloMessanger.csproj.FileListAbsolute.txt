@@ -1,0 +1,74 @@
+c:\users\dracolich\documents\visual studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.csprojResolveAssemblyReference.cache
+c:\users\dracolich\documents\visual studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\MainWindow.g.cs
+c:\users\dracolich\documents\visual studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\App.g.cs
+c:\users\dracolich\documents\visual studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\dracolich\documents\visual studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger_MarkupCompile.cache
+c:\users\dracolich\documents\visual studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger_MarkupCompile.lref
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\App.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\MainWindow.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Styles\Buttons.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Styles\Colors.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Styles\Fonts.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.exe
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.pdb
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.exe.config
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.exe
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.pdb
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.Core.dll
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.Core.pdb
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Styles\Texts.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.g.resources
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.Properties.Resources.resources
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.csproj.GenerateResource.Cache
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Pages\LoginPage.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Pages\RegisterPage.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Controls\ListItem.g.cs
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Controls\SlideMenu.g.cs
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Pages\ChatPage.g.cs
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Controls\ChatList.g.cs
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Controls\ListItem.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Controls\SlideMenu.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Pages\ChatPage.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\obj\Debug\Controls\ChatList.baml
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\Ninject.dll
+C:\Users\DracoLich\Documents\Visual Studio 2017\Projects\HelloMessanger\HelloMessanger\bin\Debug\Ninject.xml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.exe.config
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.exe
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.pdb
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.csprojResolveAssemblyReference.cache
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\ChatList.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\ListItem.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\SlideMenu.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\MainWindow.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Pages\ChatPage.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Pages\LoginPage.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Pages\RegisterPage.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\App.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger_MarkupCompile.cache
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger_MarkupCompile.lref
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.exe
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.pdb
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.Core.dll
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\Ninject.dll
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\HelloMessanger.Core.pdb
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\bin\Debug\Ninject.xml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\App.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\ChatList.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\ListItem.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\SlideMenu.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\MainWindow.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Pages\ChatPage.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Pages\LoginPage.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Pages\RegisterPage.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Styles\Buttons.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Styles\Colors.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Styles\Fonts.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Styles\Texts.baml
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.g.resources
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.Properties.Resources.resources
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\HelloMessanger.csproj.GenerateResource.Cache
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\PageHost.g.cs
+E:\Projects\01.07.2018\HelloMessanger\HelloMessanger\obj\Debug\Controls\PageHost.baml
